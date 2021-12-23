@@ -1,0 +1,521 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Presento</title>
+    <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css" integrity="sha384-AYmEC3Yw5cVb3ZcuHtOA93w35dYTsvhLPVnYs9eStHfGJvOvKxVfELGroGkvsg+p" crossorigin="anonymous"/>
+    <link rel="stylesheet" href="./Presento.css">
+</head>
+<body>
+    
+
+    <!-- Banner starts -->
+    <div class="banner">
+            <!-- navbar starts -->
+    <nav>
+        <a href="" class="brand-logo">Presento.</a>
+        <ul>
+            <li>
+                <a href="">Home</a>
+            </li>
+            <li>
+                <a href="">About</a>
+            </li>
+            <li>
+                <a href="">Service</a>
+            </li>
+            <li>
+                <a href="">Portfolio</a>
+            </li>
+            <li>
+                <a href="">Team</a>
+            </li>
+            <li>
+                <a href="">Blog</a>
+            </li>
+            <li>
+                <a href="">Contact</a>
+            </li>
+            <li>
+                <a href="" class="nav-btn">GetStarted</a>
+            </li>
+        </ul>
+    </nav>
+    <!-- navbar ends -->
+        <div class="banner-content">
+            <h1>Bettter digital experience with Presento</h1>
+            <p>We are team of talented designers making websites with Bootstrap</p>
+            <button>Get Started</button>
+        </div>
+    </div>
+    <!-- banner ends -->
+
+    <!-- logos stsrts -->
+
+    <div class="logos">
+        <div class="logo-img">
+            <img src="https://bootstrapmade.com/demo/templates/Presento/assets/img/clients/client-1.png" alt="">
+        </div>
+        <div class="logo-img">
+            <img src="https://bootstrapmade.com/demo/templates/Presento/assets/img/clients/client-2.png" alt="">
+        </div>
+        <div class="logo-img">
+            <img src="https://bootstrapmade.com/demo/templates/Presento/assets/img/clients/client-5.png" alt="">
+        </div>
+        <div class="logo-img">
+            <img src="https://bootstrapmade.com/demo/templates/Presento/assets/img/clients/client-3.png" alt="">
+        </div>
+        <div class="logo-img">
+            <img src="https://bootstrapmade.com/demo/templates/Presento/assets/img/clients/client-8.png" alt="">
+        </div>
+        <div class="logo-img">
+            <img src="https://bootstrapmade.com/demo/templates/Presento/assets/img/clients/client-6.png" alt="">
+        </div>
+        <div class="logo-img">
+            <img src="https://bootstrapmade.com/demo/templates/Presento/assets/img/clients/client-7.png" alt="">
+        </div>
+    </div>
+
+    <!-- logos ends -->
+
+    <!-- Provident starts -->
+    <div class="provident">
+        <div class="provident-content">
+            <h1>Voluptatem dignissimos provident quasi</h1>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+                 Duis aute irure dolor in reprehenderit</p>
+            <button>ABOUT US></button>
+        </div>
+        <div class="provident-icons">
+            <div class="provident-icons-content">
+                <i class="far fa-receipt"></i>
+                <h3>Corporis voluptates sit</h3>
+                <p>Consequuntur sunt aut quasi enim aliquam quae harum pariatur laboris nisi ut aliquip</p>
+            </div>
+            <div class="provident-icons-content">
+                <i class="far fa-images"></i>
+                <h3>Labore consequatur</h3>
+                <p>Aut suscipit aut cum nemo deleniti aut omnis. Doloribus ut maiores omnis facere</p>
+            </div>
+        </div>
+        <div class="provident-icons">
+            <div class="provident-icons-content">
+                <i class="fal fa-cube"></i>
+                <h3>Ullamco laboris nisi</h3>
+                <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt</p>
+            </div>
+            <div class="provident-icons-content">
+                <i class="fal fa-shield"></i>
+                <h3>Beatae veritatis</h3>
+                <p>Expedita veritatis consequuntur nihil tempore laudantium vitae denat pacta</p>
+            </div>
+        </div>
+    </div>
+    <!-- Provident ends -->
+
+    <!-- count starts -->
+    <div class="count">
+        <div class="count-content">
+            <i class="fal fa-smile-beam"></i>
+            <h1>232</h1>
+            <p>Happy Clients</p>
+        </div>
+        <div class="count-content">
+            <i class="far fa-book"></i>
+            <h1>521</h1>
+            <p>Projects</p>
+        </div>
+        <div class="count-content">
+            <i class="fas fa-headset"></i>
+            <h1>1463</h1>
+            <p>Hour Of Support</p>
+        </div>
+        <div class="count-content">
+            <i class="far fa-user-friends"></i>
+            <h1>15</h1>
+            <p>Hard Workers</p>
+        </div>
+    </div>
+    <!-- count ends -->
+    <!-- info starts -->
+    <div class="info">
+        <div class="text-image">
+            <div class="info-text">
+                <h2>Voluptatem dignissimos provident quasi corporis voluptates sit assumenda.</h2>
+                
+                <p class="para">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                <ul>
+                    <li> <i class="far fa-check-double"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat.</li>
+                    <li> <i class="far fa-check-double"></i>Duis aute irure dolor in reprehenderit in voluptate velit.</li>
+                    <li> <i class="far fa-check-double"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate trideta 
+                        storacalaperda mastiro dolore eu fugiat nulla pariatur.</li>
+                </ul>
+                <p class="para1">Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, 
+                    sunt in culpa qui officia deserunt mollit anim id est laborum</p>
+            </div>
+            <div class="info-img">
+                <img src="https://bootstrapmade.com/demo/templates/Presento/assets/img/tabs-4.jpg" alt="">
+            </div>
+        </div>
+    </div>
+    <!-- info ends -->
+    <!-- Service starts -->
+    <section class="service">
+        <div class="header">
+            <h1>SERVICES</h1>
+            <hr>
+            <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate.
+                 Et nemo qui impedit suscipit alias ea.</p>
+        </div>
+        <div class="Content">
+            <div class="icon-text">
+                <i class="fal fa-briefcase"></i>
+                <h4><a href="">Lorem Ipsum</a></h4>
+                <p>Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident</p>
+                
+            </div>
+            <div class="icon-text">
+                <i class="fal fa-tasks"></i>
+                <h4><a href="">Dolor Sitema</a></h4>
+                <p>Minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat tarad limino ata</p>
+            </div>
+            <div class="icon-text">
+                <i class="far fa-signal-alt-3"></i>
+                <h4><a href="">Sed ut perspiciatis</a></h4>
+                <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur</p>
+            </div>
+            <div class="icon-text">
+                <i class="far fa-binoculars"></i>
+                <h4><a href="">Nemo Enim</a></h4>
+                <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum</p>
+            </div>
+            <div class="icon-text">
+                <i class="fal fa-sun"></i>
+                <h4><a href="">Magni Dolore</a></h4>
+                <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque</p>
+            </div>
+            <div class="icon-text">
+                <i class="fal fa-calendar-alt"></i>
+                <h4><a href="">Eiusmod Tempor</a></h4>
+                <p>Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi</p>
+            </div>
+
+        </div>
+    </section>
+    <!-- Service ends -->
+    <!-- portfolio starts -->
+    <section class="portfolio">
+        <div class="port-text">
+            <h1>PORTFOLIO</h1>
+            <hr>
+            <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate.
+                 Et nemo qui impedit suscipit alias ea.</p>
+        </div>
+        <div class="port-images">
+            <div class="image">
+                <img src="	https://bootstrapmade.com/demo/templates/Presento/assets/img/portfolio/portfolio-1.jpg" alt="">
+                <div class="image-content">
+                    <h4>App 1</h4>
+                    <p>APP</p>
+                </div>
+            </div>
+            <div class="image">
+                <img src="	https://bootstrapmade.com/demo/templates/Presento/assets/img/portfolio/portfolio-2.jpg" alt="">
+                <div class="image-content">
+                    <h4>Web 3</h4>
+                    <p>WEB</p>
+                </div>
+            </div>
+            <div class="image">
+                <img src="	https://bootstrapmade.com/demo/templates/Presento/assets/img/portfolio/portfolio-3.jpg" alt="">
+                <div class="image-content">
+                    <h4>App 2</h4>
+                    <p>APP</p>
+                </div>
+            </div>
+            <div class="image">
+                <img src="	https://bootstrapmade.com/demo/templates/Presento/assets/img/portfolio/portfolio-4.jpg" alt="">
+                <div class="image-content">
+                    <h4>Cards 2</h4>
+                    <p>CARDS</p>
+                </div>
+            </div>
+            <div class="image">
+                <img src="	https://bootstrapmade.com/demo/templates/Presento/assets/img/portfolio/portfolio-5.jpg" alt="">
+                <div class="image-content">
+                    <h4>Web 2</h4>
+                    <p>WEB</p>
+                </div>
+            </div>
+            <div class="image">
+                <img src="	https://bootstrapmade.com/demo/templates/Presento/assets/img/portfolio/portfolio-6.jpg" alt="">
+                <div class="image-content">
+                    <h4>App 3</h4>
+                    <p>APP</p>
+                </div>
+            </div>
+            <div class="image">
+                <img src="	https://bootstrapmade.com/demo/templates/Presento/assets/img/portfolio/portfolio-7.jpg" alt="">
+                <div class="image-content">
+                    <h4>Cards 1</h4>
+                    <p>CARDS</p>
+                </div>
+            </div>
+            <div class="image">
+                <img src="	https://bootstrapmade.com/demo/templates/Presento/assets/img/portfolio/portfolio-8.jpg" alt="">
+                <div class="image-content">
+                    <h4>Cards 3</h4>
+                    <p>CARDS</p>
+                </div>
+            </div>
+            <div class="image">
+                <img src="	https://bootstrapmade.com/demo/templates/Presento/assets/img/portfolio/portfolio-9.jpg" alt="">
+                <div class="image-content">
+                    <h4>Web 3</h4>
+                    <p>WEB</p>
+                </div>
+            </div>
+
+        </div>
+    </section>
+    <!-- portfolio ends -->
+    <!-- Testimonials starts -->
+    <div class="testimonial">
+        <div class="testimonial-content"><h1>TESTIMONIALS</h1>
+            <hr>
+            <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. 
+                Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p></div>
+        <div class="testimonial-image">
+            <div class="image1">
+                <div class="image2">
+                <img src="https://bootstrapmade.com/demo/templates/Bikin/assets/img/testimonials/testimonials-1.jpg" alt="">
+                </div>
+                <h2>Saul Goodman</h2>
+                <h5>Ceo & Founder</h5>
+                <p>Proin iaculis purus consequat sem cure digni ssim donec porttitora entum suscipit rhoncus. 
+                    Accusantium quam, ultricies eget id, aliquam eget nibh et. Maecen aliquam, risus at semper.</p>
+            </div>
+            <div class="image1">
+                <div class="image2">
+                    <img src="https://bootstrapmade.com/demo/templates/Bikin/assets/img/testimonials/testimonials-2.jpg" alt="">
+                </div>
+                <h2>Sara Willson</h2>
+                <h5>Designer</h5>
+                <p>Export tempor illum tamen malis malis eram quae irure esse labore quem cillum quid cillum eram malis quorum velit
+                    fore eram velit sunt aliqua noster fugiat irure amet legam anim culpa.</p>
+            </div>
+            <div class="image1">
+                <div class="image2">
+                    <img src="https://bootstrapmade.com/demo/templates/Bikin/assets/img/testimonials/testimonials-4.jpg" alt="">
+                </div>
+                <h2>Matt Brandon</h2>
+                <h5>Freelancer</h5>
+                <p>Enim nisi quem export duis labore cillum quae magna enim sint quorum nulla quem veniam duis minim tempor 
+                    labore quem eram duis noster aute amet eram fore quis sint minim. </p>
+            </div>
+        </div>
+    </div>
+<!-- Testimonials ends -->
+<!-- Pricing starts -->
+    <section class="pricing">
+        <div class="pricing-content">
+            <h1>PRICING</h1>
+            <hr>
+            <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit.
+                 Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea.</p>
+        </div>
+        <div class="pricing-details">
+            <div class="cards">
+                <h3>FREE</h3>
+                <h1><i>$</i> 0<span>/ month</span></h1>
+                <p>Aida dere</p>
+                <p> Nec feugiat nisl</p>
+                <p>Nulla at volutpat dola</p>
+                <p style="text-decoration: line-through; color: rgba(255, 255, 255, 0.63);">Pharetra massa</p>
+                <p style="text-decoration: line-through; color: rgba(255, 255, 255, 0.63);">Massa ultricies mi</p>
+                <button>Buy Now</button>
+            </div>
+            <div class="cards" id="middle">
+                <h3>BUISNESS</h3>
+                <h1><i>$</i> 19<span>/ month</span></h1>
+                <p>Aida dere</p>
+                <p> Nec feugiat nisl</p>
+                <p>Nulla at volutpat dola</p>
+                <p>Pharetra massa</p>
+                <p style="text-decoration: line-through; color: rgba(255, 255, 255, 0.63);">Massa ultricies mi</p>
+                <button style="background-color: #e03a3c;">Buy Now</button>
+            </div>
+            <div class="cards">
+                <h3>DEVELOPER</h3>
+                <h1><i>$</i> 23<span>/ month</span></h1>
+                <p>Aida dere</p>
+                <p> Nec feugiat nisl</p>
+                <p>Nulla at volutpat dola</p>
+                <p>Pharetra massa</p>
+                <p>Massa ultricies mi</p>
+                <button>Buy Now</button>
+            </div>
+        </div>
+
+    </section>
+<!-- Pricing ends -->
+<!-- Team starts -->
+    <section class="team">
+        <div class="team-content">
+            <h1>TEAM</h1>
+            <hr>
+            <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. 
+                Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea.</p>
+        </div>
+        <div class="team-cards">
+            <div class="card">
+                <img src="https://bootstrapmade.com/demo/templates/Bikin/assets/img/team/team-1.jpg" alt="">
+                <div class="card-content">
+                   
+                    <h3>Walter White</h3>
+                    <p>Chief Executive Officer</p>
+                    <div class="icon">
+                    <i class="fab fa-twitter"></i>
+                    <i class="fab fa-facebook"></i>
+                    <i class="fab fa-instagram"></i>
+                    <i class="fab fa-linkedin"></i>
+                   </div>
+                </div>
+            </div>
+            <div class="card">
+                <img src="https://bootstrapmade.com/demo/templates/Bikin/assets/img/team/team-2.jpg" alt="">
+                <div class="card-content">
+                        <h3>Sarah Jhonson</h3>
+                        <p>Product Manager</p>
+                        <div class="icon">
+                        <i class="fab fa-twitter"></i>
+                        <i class="fab fa-facebook"></i>
+                        <i class="fab fa-instagram"></i>
+                        <i class="fab fa-linkedin"></i>
+                       </div>
+                </div>
+            </div>
+            <div class="card">
+                <img src="https://bootstrapmade.com/demo/templates/Bikin/assets/img/team/team-3.jpg" alt="">
+                <div class="card-content">
+                    
+                        <h3>William Anderson</h3>
+                        <p>CTO</p>
+                        <div class="icon">
+                        <i class="fab fa-twitter"></i>
+                        <i class="fab fa-facebook"></i>
+                        <i class="fab fa-instagram"></i>
+                        <i class="fab fa-linkedin"></i>
+                       </div>
+                </div>
+            </div>
+            <div class="card">
+                <img src="https://bootstrapmade.com/demo/templates/Bikin/assets/img/team/team-4.jpg" alt="">
+                <div class="card-content">
+                    
+                        <h3>Amanda Jepson</h3>
+                        <p>Accountant</p>
+                        <div class="icon">
+                        <i class="fab fa-twitter"></i>
+                        <i class="fab fa-facebook"></i>
+                        <i class="fab fa-instagram"></i>
+                        <i class="fab fa-linkedin"></i>
+                       </div>
+                </div>
+            </div>
+    </section>
+<!-- Team ends -->
+<!-- Contact starts -->
+    <section class="contact">
+        <div class="contact-content">
+            <h1>CONTACT</h1>
+            <hr>
+            <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit.
+                 Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea.</p>
+        </div> 
+        <div class="details">
+            <div class="company-details">
+                <i class="fal fa-map-marker-alt"></i>
+                    <h2>Our Address</h2>
+                    <p>A108 Adam Street, New York, NY 535022</p>
+                <div class="media">
+                    <div class="social-media">
+                        <i class="fal fa-envelope"></i>
+                        <h2>Email Us</h2>
+                        <p>info@example.com</p>
+                        <p>contact@example.com</p>
+                    </div>
+                    <div class="call">
+                        <i class="far fa-phone-volume"></i>
+                        <h2>Call Us</h2>
+                        <p>+1 5589 55488 55</p>
+                        <p>+1 6678 254445 41</p>
+                    </div>
+                </div>    
+            </div>
+            <div class="customer-details">
+                <input class="one" type="text" placeholder="Your Name">
+                <input class="one" id="p" type="email" placeholder="Your Email"><br>
+                <input class="two" type="text2" placeholder="Subject"><br>
+                <textarea name="" id="" placeholder="Message" cols="50" rows="5"></textarea><br>
+                <button>Send Message</button>
+            </div>
+        </div>
+    </section>
+<!-- contact ends -->
+<!-- footer starts -->
+    <section class="footer">
+        <div class="outer">
+            <div class="outer-content">
+                <h2>Presento.</h2>
+                <p>A108 Adam Street</p>
+                <p>New York, NY 535022</p>
+                <p>United States</p>
+                <h3>Phone: +1 5589 55488 55</h3>
+                <h4>Email: info@example.com</h4>
+            </div>
+            <div class="outer-content">
+                <h3>Useful Links</h3>
+                <hr>
+                <ul>
+                    <li>Home</li>
+                    <li>About Us</li>
+                    <li>Services</li>
+                    <li>Terms of service</li>
+                    <li>Privacy policy</li>
+                </ul>
+            </div>
+            <div class="outer-content">
+                <h3>Our Services</h3>
+                <hr>
+                <ul>
+                    <li>Web Design</li>
+                    <li>Web Development</li>
+                    <li>Product Management</li>
+                    <li>Marketing</li>
+                    <li>Graphic Design</li>
+                </ul>
+            </div>
+            <div class="outer-content" id="b">
+                <h3>Join Our Newsletter</h3>
+                <hr>
+                <p>Tamen quem nulla quae legam multos aute sint culpa legam noster magna</p>
+                <input type="email">
+                <button>Subscribe</button>
+            </div>
+        </div>
+        <div class="inner">
+            <div class="text">
+            <h4>© Copyright Presento. All Rights Reserved</h4>
+            <h5>Designed by BootstrapMade</h5>
+            </div>
+            <div class="icon">
+                <i class="fab fa-twitter"></i><i class="fab fa-facebook"></i><i class="fab fa-instagram"></i><i class="fab fa-skype"></i><i class="fab fa-linkedin"></i>
+            </div>
+    </section>
+
+<!-- footer ends -->
+</body>
+</html>
